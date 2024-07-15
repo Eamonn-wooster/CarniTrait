@@ -1,7 +1,8 @@
 # **CarniTraits**
 
-*CarniTraits*, a comprehensive functional trait database of all late Quaternary (\~130,000 ybp) terrestrial mammalian carnivore species (149 species, \>1kg body mass). The database contains the body mass, diet, locomotion, cooperative hunting, hunting habitat, hunting method, bone use, and hunting temporal activity patterns of all carnivores over the last \~130,000 years. We also include the IUCN status for all extant species and ground the database in a modern phylogeny and is thus compatible and easily interlinked with range maps published in PHYLACINE v1.2.1. *CarniTraits* is broadly applicable to assisting in local and macroecological studies, meta-analytic research, global syntheses, and paleoecological research. *CarniTraits* includes data on:
+*CarniTraits*, a comprehensive functional trait database of all late Quaternary (\~130,000 ybp) terrestrial mammalian carnivore species (149 species, \>1kg body mass). The database contains the body mass, diet, locomotion, cooperative hunting, hunting habitat, hunting method, bone use, and hunting temporal activity patterns of all carnivores over the last \~130,000 years. We also include the IUCN status for all extant species and ground the database in a modern phylogeny and is thus compatible and easily interlinked with range maps published in PHYLACINE v1.2.1. *CarniTraits* is broadly applicable to assisting in local and macroecological studies, meta-analytic research, global syntheses, and paleoecological research. 
 
+*CarniTraits* includes data on:
 -   Body Mass
 -   Diet
 -   Scavenging behaviour
